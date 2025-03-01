@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612924850849",
+    "project_id": "scope-india-cea56",
+    "storage_bucket": "scope-india-cea56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612924850849:android:ab76d342d0ad0482bfa6e0",
+        "android_client_info": {
+          "package_name": "com.example.scope_india"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_fsgILf6Cwx024rMujBeJJ2UI95tBt8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
